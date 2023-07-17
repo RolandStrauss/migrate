@@ -1,5 +1,5 @@
 DBGVIEW=*NONE
-BIN_LIB=MIGRATE
+BIN_LIB=ROLAND1
 
 # Makefile for migrate project
 
