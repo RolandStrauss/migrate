@@ -1,8 +1,8 @@
         
-        /INCLUDE './headers/utils.rpgle'
-        /INCLUDE './headers/std.rpgle'
-        /INCLUDE './headers/member.rpgle'
-        /INCLUDE './headers/library.rpgle'
+        /INCLUDE '/home/ROLAND/builds/migrate/headers/utils.rpgle'
+        /INCLUDE '/home/ROLAND/builds/migrate/headers/std.rpgle'
+        /INCLUDE '/home/ROLAND/builds/migrate/headers/member.rpgle'
+        /INCLUDE '/home/ROLAND/builds/migrate/headers/library.rpgle'
         
         Dcl-Pi MIGSRCPF;
           pLibrary Char(10);
